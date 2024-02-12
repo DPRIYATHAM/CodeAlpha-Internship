@@ -1,4 +1,4 @@
-# TASK 2 - Phishing AwarenessTraining
+# TASK 2 - Phishing Awareness Training
 Create a presentation or online training module about phishing attacks.<br>
 Educate others about recognizing and avoiding phishing emails, websites, and social engineering tactics.
 
