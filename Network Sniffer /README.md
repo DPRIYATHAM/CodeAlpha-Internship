@@ -5,3 +5,6 @@ This project will help you understand how data flows on a network and how networ
 Python Code to View the Packets in a network.<br>
 Package Used: [**Scapy**](https://scapy.net/)<br>
 Cheat Sheet: [https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf](https://wiki.sans.blue/Tools/pdfs/ScapyCheatSheet_v0.2.pdf)
+
+## Setting Up the Sniffer
+
