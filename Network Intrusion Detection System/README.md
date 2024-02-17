@@ -8,7 +8,15 @@ Suricata is a high performance, open source network analysis and threat detectio
 ![Suricata](Suricata.png)
 
 # Presentation and Working with Suricata
+
+Presentation: [Presentation](IDS-Suricata.pdf)
+
 - Use Cases Deployed.
+1. Denial Of Service IDS -  Detecting Denial of Service with the Help of Suricata Rules. 
+2. Raspberry Pi - Monitoring the Network and using IDS with RaspBerry Pi (Setup a Network with the help of switch, VM)
+3. Firewall - We can even restrict access to a particular website
+
+![IDS-Raspi](IDS-Raspi.png)
 
 # Notes, Working with Suricata
 Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine. It is open source and owned by a community-run non-profit foundation, the Open Information Security Foundation (OISF). 
@@ -95,3 +103,7 @@ RaspberryPi
 Configure RaspberryPi and suricata basic setup and installation.
 Setup the HOME_NET in the suricata.yaml file
 
+Consider a Switch with the ability of Mirror Porting, it can replicate the traffic which helps you the entire traffic through the Switch. Positioning RaspberryPi in between the External Network and Swwitch can even help you to build a IPS (Intrusion Prevention System) based on the provided rules.
+
+## Conclusion
+I really had a great experience in dealing with Raspberry PI, creating my own rules for Suricata, and making IDS, DOS, Firewall which are minimal but gave me a lot of idea on how they work and how we can configure. 
