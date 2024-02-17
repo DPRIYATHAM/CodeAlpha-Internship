@@ -47,7 +47,7 @@ According to My Project I found these Tools useful and I am exploring them.
 - Veracode - Open Source, Free - [Link](https://www.veracode.com/)
 
 > Through the Manual Secure Coding Review of My Application I followed OWASP Top Ten
-![OWASPTOPTEN](owasp.png)
+
 - Fixed the Broken Access Control - Using JWT Token
 - Fixed the Cryptographic Failures - By Applying Encruption to the Data in the DataBase
 - Working on other Vulnerabilities too.
