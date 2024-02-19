@@ -1,6 +1,7 @@
 # CodeAlpha-Internship
 Cyber Security Internship @ CodeAlpha January 2024 <br>
 Offer Letter - [CodeAlpha Darisi Priyatham](CodeAlpha-Darisi_Priyatham.pdf)
+Certificate - [Darisi Priyatham](https://drive.google.com/file/d/1kAAKORVCqSS995q-VugbAfNJNPG5Xnd9)
 
 ### CYBERSECURITY INTERNSHIP TASKS
 CodeAlpha offers internship opportunities in the field of cyber security, providing you with a chance to become a skilled and hands-on cyber security professional.<br>
