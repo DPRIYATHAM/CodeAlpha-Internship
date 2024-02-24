@@ -6,13 +6,13 @@ This is a Project I made as a part of Course Work<br>
 Performing a Secure code review on this application to find and fix its vulnerabilities.<br>
 Project Link - [ADS - IOT](https://github.com/DPRIYATHAM/ADS-IOT/tree/main/Software)
 
-> Securing a application is as Important as Building the Application.
+> Securing an application is as Important as Building the Application.
 
 Let's Hear About Secure Coding from `OWASP`
 
 Source code analysis tools, also known as Static Application Security Testing (SAST) Tools, can help analyze source code or compiled versions of code to help find security flaws. (WhiteBox Testing)
 
-SAST tools can be added into your IDE. Such tools can help you detect issues during software development. SAST tool feedback can save time and effort, especially when compared to finding vulnerabilities later in the development cycle
+SAST tools can be added to your IDE. Such tools can help you detect issues during software development. SAST tool feedback can save time and effort, especially when compared to finding vulnerabilities later in the development cycle
 
 ## SAST - Important Selection Criteria
 - Prerequisite: Support your programming language.
@@ -40,20 +40,20 @@ SAST tools can be added into your IDE. Such tools can help you detect issues dur
     - [Wikipedia - List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis)
 - OWASP Project Benchmarks - [Link](https://owasp.org/www-project-benchmark/)
 
-According to My Project I found these Tools useful and I am exploring them.
+According to My Project, I found these Tools useful and I am exploring them.
 - ASH by AWS - Open Source, Free - [Link](https://github.com/awslabs/automated-security-helper)
 - Bandit - Open Source - [Link](https://github.com/PyCQA/bandit)
 - HCL AppScan - Open Source, Free - [Link](https://github.com/marketplace/actions/hcl-appscan-codesweep)
 - Pyre - Open Source, Free - [Link](https://pyre-check.org/)
 - Veracode - Open Source, Free - [Link](https://www.veracode.com/)
 
-> Through the Manual Secure Coding Review of My Application I followed OWASP Top Ten
+> Through the Manual Secure Coding Review of My Application I followed OWASP's Top Ten
 
 - Fixed the Broken Access Control - Using JWT Token
-- Fixed the Cryptographic Failures - By Applying Encruption to the Data in the DataBase
+- Fixed the Cryptographic Failures - By Applying Encryption to the Data in the DataBase
 - Working on other Vulnerabilities too.
-- As a part of this Internship Program I had worked on these as of now.
+- As a part of this Internship Program I have worked on these as of now.
 - I will be continuing to work on these even after the Internship period (driven by passion)
 
 ## Conclusion
-This is a great experience to learn Secure Coding Review, and to correct the mistakes I done as developer before.
+This is a great experience to learn Secure Coding Review and to correct the mistakes I made as a developer before.
